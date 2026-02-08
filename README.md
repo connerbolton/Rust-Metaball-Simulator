@@ -22,5 +22,9 @@ A high-performance, real-time lava lamp simulation built with **Rust**, **Macroq
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/connerbolton/Rust-Metaball-Simulator.git](https://github.com/connerbolton/Rust-Metaball-Simulator.git)
+   git clone https://github.com/connerbolton/Rust-Metaball-Simulator.git
    cd Rust-Metaball-Simulator
+
+2. **Run the Progeam:**
+   ```bash
+   cargo run
