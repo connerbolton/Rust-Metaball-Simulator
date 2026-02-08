@@ -30,7 +30,7 @@ async fn main() {
     let mut meta_balls: Vec<MetaBall> = vec![];
 
     let mut ui_state = UiState {
-        speed: 0.15,
+        speed: 0.05,
         ball_radius: 0.05,
         show_settings: true,
         color: [1.0, 0.0, 0.7]
