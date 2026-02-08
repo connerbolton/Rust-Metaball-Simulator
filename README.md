@@ -1,6 +1,6 @@
 # 🦀 Rust Metaball Simulator
 
-A high-performance, real-time lava lamp simulation built with **Rust**, **Macroquad**, and **GLSL**. This project uses GPU-accelerated shaders to render organic, merging shapes with a smooth, fluid aesthetic.
+A high-performance, real-time metaball simulation built with **Rust**, **Macroquad**, and **GLSL**. This project uses GPU-accelerated shaders to render organic, merging shapes with a smooth, fluid aesthetic.
 
 ---
 
