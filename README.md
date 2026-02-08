@@ -60,7 +60,7 @@ If the **Total** exceeds a specific threshold (set to 1.0 in this project), the 
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/connerbolton/Rust-Metaball-Simulator.git](https://github.com/connerbolton/Rust-Metaball-Simulator.git)
+    git clone https://github.com/connerbolton/Rust-Metaball-Simulator.git
     cd Rust-Metaball-Simulator
     ```
 
