@@ -1,4 +1,4 @@
-#![windows_subsystem = "windows"]
+#![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 use macroquad::prelude::*;
 
 struct MetaBall {
@@ -57,7 +57,8 @@ async fn main() {
 
         },
 
-    ).unwrap();
+    ).expect("shader compile/link failed");
+
 
     loop {
 
