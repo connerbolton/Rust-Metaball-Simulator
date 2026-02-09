@@ -57,7 +57,8 @@ async fn main() {
 
         },
 
-    ).unwrap();
+    ).expect("shader compile/link failed");
+
 
     loop {
 
